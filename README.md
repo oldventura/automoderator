@@ -1,0 +1,2 @@
+# automoderator
+Some automoderator scripts
