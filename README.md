@@ -1,2 +1,2 @@
 # automoderator
-Some automoderator rules
+Some automoderator rules for r/KGBTR
