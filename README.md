@@ -1,2 +1,2 @@
 # automoderator
-Some automoderator scripts
+Some automoderator rules
