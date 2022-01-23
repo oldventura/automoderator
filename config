@@ -26,3 +26,17 @@ comment: |
 
     KGBTR başka platformlarda da yayılmaya başladıkça bu otomatik mesaja eklenecek.
 ---
+# Reverse search on images
+# Written by u/oldventura :P
+
+flair_text (includes-word): bulun
+comment_stickied: true
+comment: |
+    # KGBTR FBI Ekibi Göreve!
+    ## Atılan fotoğrafı bulmak için aşağıdaki linkleri kullanabilirsin:
+    
+    ### [Yandex Images](https://yandex.ru/images/search?rpt=imageview&url={{url}})
+    ### [TinEye](https://tineye.com/search?url={{url}})
+    ### [Google Images](https://www.google.com/searchbyimage?&image_url={{url}})
+    ### [Bing Visual Search](https://www.bing.com/images/search?view=detailv2&iss=sbi&form=SBIVSP&sbisrc=UrlPaste&q=imgurl:{{url}}&safeSearch=off)
+---
